@@ -2,6 +2,7 @@ public class Person {
     private String name;
     private String forename;
     private int age;
+    private char sex;
 
     // Constructor
     public Person(String name, String forename, int age) {
