@@ -3,6 +3,7 @@ public class Person {
     private String forename;
     private int age;
     private char sex;
+    private String phone;
 
     // Constructor
     public Person(String name, String forename, int age) {
